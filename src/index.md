@@ -291,7 +291,7 @@
 7. 1金を払って寺院トラックを1マス進む
 8. 3VPを得る
 
-!()[img/weavingrewards.png]
+![](img/weavingrewards.png)
 
 <br />
 
