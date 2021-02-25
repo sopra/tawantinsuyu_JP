@@ -476,7 +476,7 @@
 1回目と2回目のフェスティバルの後に、すべてのプレイヤーはVPが低い人から高い人の順に、下記に示す通りに神カードを山札の上から引きます。
 （このフェーズ中ではofferから神カードを取ることはできません）
 
-|| || in 2-player game || in 3-player game || in 4-player game ||
+| | in 2-player game | in 3-player game | in 4-player game |
 |---|---|---|---|
 | player with fewest VP | draw 2 cards | draw 2 cards | draw 2 cards |
 | player with second fewest VP | draw 1 card | draw 2 cards | draw 2 cards |
